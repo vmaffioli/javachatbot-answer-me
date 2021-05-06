@@ -1,2 +1,7 @@
 # javachatbot-answer-me
-Java chatbot answers kit
+Java chatbot;
+
+
+Training, learning;
+
+
